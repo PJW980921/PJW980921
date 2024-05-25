@@ -1,11 +1,10 @@
 <div align= "center">
      <a href="https://velog.io/@jackgg12322/posts">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:504949,100:e3e3e3&height=180&text=const%20PJW%20=`Hello,%20world!`&animation=twinkling&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:204333,100:e3e3e3&height=180&text=%20ParkJiWon%&animation=twinkling&fontColor=ffffff&fontSize=50" />
      </a>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👨🏻‍💻저는 [ ] 사람입니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> ['긍정적인' , '도전을 좋아하는', '책임감 있는'] </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👨🏻‍💻저는 ['긍정적인' , '도전을 좋아하는', '책임감 있는'] 개발자 입니다. </h2>  
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
