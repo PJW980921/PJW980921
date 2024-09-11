@@ -3,9 +3,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:204333,100:e3e3e3&height=180&text=%20ParkJiWon%&animation=twinkling&fontColor=ffffff&fontSize=50" />
      </a>
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👨🏻‍💻저는 ['긍정적인' , '도전을 좋아하는', '책임감 있는'] 개발자 입니다. </h2>  
-    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
