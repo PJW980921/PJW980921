@@ -22,20 +22,4 @@
          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
           </div>
     </div>
-    <br/>
-    <div align= "center"> 
- <p align="center"><b>📈 GiHub Stats</b></p>
-<p align="center">
-  <table>
-    <tr>
-      <td align="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=PJW980921&count_private=true&show_icons=true&theme=buefy&hide_border=true" align="left" style="width: 100%" />
-      </td>
-      <td align="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PJW980921&hide=jupyter%20notebook&layout=compact&hide_border=true" align="left" style="width: 100%" />
-      </td>
-    </tr>
-  </table>
-</p>
-    </div>
     
